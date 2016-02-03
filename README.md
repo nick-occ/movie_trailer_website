@@ -2,16 +2,23 @@
 Movie Trailer Website for Project 1 of Udacity's Full Stack Nanodegree Program
 
 Program: Project 1 Movie Trailer Website for Udactiy Full Stack Web Develope Nanodegree
-Author: Nicholas Occhipint
+
+Author: Nicholas Occhipinti
+
 Contact: nicholasocchipinti@gmail.com
+
 Purpose: Program will generate a website based on a list of Movie objects and allow users to view movie trailers
 
 
 #############################################
 PROJECT FILES
 #############################################
+Files for this project can be found at https://github.com/nick-occ/movie_trailer_website/
+
 media.py - Movie class module
+
 entertainment_center.py - Script to create instances of Movie objects and all fresh_tomatoes module to display webpage.
+
 fresh_tomatoes.py - Module to create webpage containing Movie objects
 
 #############################################
