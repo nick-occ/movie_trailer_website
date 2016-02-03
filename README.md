@@ -1,29 +1,25 @@
 # movie_trailer_website
-Movie Trailer Website for Project 1 of Udacity's Full Stack Nanodegree Program
+**Movie Trailer Website for Project 1 of Udacity's Full Stack Nanodegree Program**
 
-Program: Project 1 Movie Trailer Website for Udactiy Full Stack Web Develope Nanodegree
+**Program: Project 1 Movie Trailer Website for Udactiy Full Stack Web Develope Nanodegree**
 
-Author: Nicholas Occhipinti
+**Author: Nicholas Occhipinti**
 
-Contact: nicholasocchipinti@gmail.com
+**Contact: nicholasocchipinti@gmail.com**
 
-Purpose: Program will generate a website based on a list of Movie objects and allow users to view movie trailers
+**Purpose: Program will generate a website based on a list of Movie objects and allow users to view movie trailers**
 
 
-#############################################
-PROJECT FILES
-#############################################
+##PROJECT FILES##
 Files for this project can be found at https://github.com/nick-occ/movie_trailer_website/
 
-media.py - Movie class module
+*media.py - Movie class module
 
-entertainment_center.py - Script to create instances of Movie objects and all fresh_tomatoes module to display webpage.
+*entertainment_center.py - Script to create instances of Movie objects and all fresh_tomatoes module to display webpage.
 
-fresh_tomatoes.py - Module to create webpage containing Movie objects
+*fresh_tomatoes.py - Module to create webpage containing Movie objects
 
-#############################################
-RUNNING PROGRAM
-#############################################
+##RUNNING PROGRAM##
 1.	Copy media.py, entertainment_center.py and fresh_tomatoes.py to the same directory
 2.  Open command line and navigate to the directory where Python scripts are located.
 3.	Run the command python entertainment_center.py
